@@ -1,0 +1,21 @@
+name: multiomics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter
+  - ipykernel
+  - notebook
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - requests
+  - openpyxl
+  - pyyaml
+  - pip
+  - pip:
+      - gseapy

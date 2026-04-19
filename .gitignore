@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Data (keep structure, ignore content)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Results
+results/tables/*
+results/figures/*
+!results/tables/.gitkeep
+!results/figures/.gitkeep
