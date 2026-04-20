@@ -5,6 +5,20 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
+# Large data and caches
+cache/
+notebooks/cache/
+data/raw/
+data/processed/single_cell/*.h5ad
+data/processed/proteomics/*.h5ad
+*_tmp_10x/
+*.h5ad
+*.mtx
+*.mtx.gz
+*.tsv.gz
+*.tar
+*.tar.gz
+
 # macOS
 .DS_Store
 
