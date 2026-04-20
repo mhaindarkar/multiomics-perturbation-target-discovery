@@ -34,6 +34,18 @@ A strong candidate should:
 
 ---
 
+## How to Navigate This Project
+
+Start here:
+
+1. `notebooks/00_project_walkthrough.ipynb` — high-level overview  
+2. `notebooks/04_anticorrelation.ipynb` — core discovery step  
+3. `notebooks/08_final_summary_report.ipynb` — final results  
+
+This gives a complete understanding of the pipeline in <10 minutes.
+
+---
+
 ## Dataset
 
 ### Disease dataset
